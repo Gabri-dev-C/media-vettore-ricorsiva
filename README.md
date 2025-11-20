@@ -3,7 +3,7 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
-## Recursive array averange
+# Recursive array averange
 
 Implementazione del calcolo della media degli elementi di un vettore di interi
 con ricorsione per calcolo della somma e divisione.
@@ -29,12 +29,12 @@ Esempio: [1,2,3,4,10] → somma=20, media=4 (non 4.0 o 4.5)
 
 Per media con decimali, usare divisione floating-point.
 
-# Utilizzo
+## Utilizzo
 1. Crea in Code::Blocks un nuovo progetto.
 2. Copia il codice sorgente.
 3. Compila ed esegui.
 
-# Codice sorgente
+## Codice sorgente
 ```cpp
 #include <iostream>
 
@@ -70,11 +70,11 @@ int divisione_intera(int dividendo, int divisore){
 }
 ```
 
-# Output
+## Output
 ![Risultato della media](immagini/cattura_1.PNG)
 
-# Autore
+## Autore
 Gabriele Henriet - [GitHub](https://github.com/Gabri-dev-C)
 
-# Licenza
+## Licenza
 MIT License
